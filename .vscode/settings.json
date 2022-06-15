@@ -1,0 +1,8 @@
+{
+  "stylelint.validate": [
+    "html",
+    "css",
+    "scss",
+    "vue",
+  ]
+}
